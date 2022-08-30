@@ -14,3 +14,8 @@ print("The reversd of the given number",rev_no(no))
 
 
 print("Welcome the changes are made in the developer branch")
+
+def hello_msg():
+    print("Welcome to hello function programming.....")
+
+hello_msg()
